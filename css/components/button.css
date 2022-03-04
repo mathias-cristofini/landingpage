@@ -1,0 +1,10 @@
+.button-blue {
+  background-color: #019267;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: white;
+  opacity: 0.9;
+  font-family: "Lato";
+  font-weight: 600px;
+  font-size: 16px;
+}
